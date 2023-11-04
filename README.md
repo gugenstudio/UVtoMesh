@@ -1,2 +1,2 @@
 # UVtoMesh
-UV to MEsh geometry node for blender.
+UV to Mesh geometry node for blender.
